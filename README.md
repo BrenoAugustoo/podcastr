@@ -21,7 +21,7 @@ Projeto realizado durante a Next Level Week 5, com a ideia de realizar a reprodu
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/josepholiveira/podcastr.git && cd podcastr
+$ git clone https://github.com/BrenoAugustoo/podcastr.git && cd podcastr
 ```
 
 **Follow the steps below**
@@ -42,3 +42,5 @@ The app will be available for access on your browser at `http://localhost:3000`
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Made by BrenoAugustoo
